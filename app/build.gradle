@@ -49,4 +49,5 @@ dependencies {
 
     // Amplify core dependency
     implementation 'com.amplifyframework:core:1.37.3'
+    implementation 'com.amplifyframework:aws-auth-cognito:1.37.3'
 }

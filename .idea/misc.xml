@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/mamad/AndroidStudioProjects/NoteAPPWithAWSAmplify/app/src/main/res/drawable/ic_baseline_lock.xml" value="0.1" />
         <entry key="..\:/Users/mamad/AndroidStudioProjects/NoteAPPWithAWSAmplify/app/src/main/res/layout/content_main.xml" value="0.1" />
         <entry key="..\:/Users/mamad/AndroidStudioProjects/NoteAPPWithAWSAmplify/app/src/main/res/layout/content_note.xml" value="0.1" />
       </map>
